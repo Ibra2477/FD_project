@@ -15,8 +15,10 @@ plotly==5.24.1
 plotly-express==0.4.1
 chart-studio==1.1.0
 
-# Web app
+# Web app / map visualization
 streamlit==1.37.1
+folium==0.20.0
+streamlit-folium==0.25.3
 
 # Association rules
 mlxtend==0.23.3
