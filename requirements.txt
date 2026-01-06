@@ -1,13 +1,25 @@
-# Python: target runtime
-# Note: run this with Python 3.11
+# Numeric calculations
+numpy==1.26.0
+scipy==1.12.0
 
-numpy>=1.24.0
-pandas>=1.5.0
-scipy>=1.8.0
-scikit-learn>=1.2.2
-nltk>=3.8.1
-matplotlib>=3.6.0
-seaborn>=0.12.0
-joblib>=1.2.0
-tqdm>=4.64.0
-notebook>=6.5.2
+# Data frames
+pandas==2.1.1
+
+# Machine learning
+scikit-learn==1.5.1
+
+# Plotting & visualization
+matplotlib==3.8.0
+seaborn==0.13.2
+plotly==5.24.1
+plotly-express==0.4.1
+chart-studio==1.1.0
+
+# Web app
+streamlit==1.37.1
+
+# Association rules
+mlxtend==0.23.3
+
+# Jupyter / notebooks
+nbformat==5.9.2
